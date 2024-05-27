@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Svalbard,<br> but you can call me Dimitri.</h1>  
 
-<!--
-**xxSvalbardxx/xxSvalbardxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a french developer, and have no problem speaking English.
 
-Here are some ideas to get you started:
+Currently in training at **ZONE_01 Rouen, Normandy, France.**  
+I prepare the professional title **"Application Developer Designer"** RNCP31678  
+My exam will take place on June 12 2024, so wish me luck !  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 All of my projects are available at https://github.com/xxSvalbardxx
+- 🔭 I’m currently working on a **stackoverflow.com clone** in Go and JS.
+- 🌱 I’m currently learning frameworks like **React**.
+- 💬 Ask me about Golang, Python and Javascript
+- 📫 How to reach me: svalbardmalfant@gmail.com
