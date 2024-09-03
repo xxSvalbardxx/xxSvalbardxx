@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Svalbard,<br> but you can call me Dimitri.</h1>
-<h3 align="center">I'm a french developer, currently in training at ZONE_01 Rouen</h3>
+<h3 align="center">I'm a french developer, freshly graduated RNCP31678 at ZONE_01 Rouen</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xxsvalbardxx&label=Profile%20views&color=0e75b6&style=flat" alt="xxsvalbardxx" /> </p>
 
